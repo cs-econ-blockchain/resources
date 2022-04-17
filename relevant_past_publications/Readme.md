@@ -1,9 +1,9 @@
 # Relevant Past Publications
 
 1. Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang*, Luyao Zhang*, and Yinhong Zhao. 2022. “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security.” ArXiv:2201.05574 [Cs Econ, Q-Fin], January. Arxiv: https://arxiv.org/abs/2201.05574. The 29th ACM Conference on Computer and Communications Security (CCS) 2022. Forthcoming 
-   >- Code: https://github.com/SciEcon/EIP1559
+   - Code: https://github.com/SciEcon/EIP1559
    
-   >- Data: https://doi.org/10.7910/DVN/K7UYPI
+   - Data: https://doi.org/10.7910/DVN/K7UYPI
 
 
 2. Liu, Yulin, Luyao Zhang*, and Yinhong Zhao. 2022. “Deciphering Bitcoin Blockchain Data by Cohort Analysis.” Scientific Data 9 (136).  https://doi.org/10.1038/s41597-022-01254-0. 
@@ -27,11 +27,11 @@
  
 7. Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain: 
 
-   >- SciEcon AMA: https://medium.com/sciecon-ama 
+   - SciEcon AMA: https://medium.com/sciecon-ama 
 
-   >- SciEcon Research: https://medium.com/sciecon-research 
+   - SciEcon Research: https://medium.com/sciecon-research 
 
-   >- SciEcon Innovate: https://medium.com/sciecon-innovate 
+   - SciEcon Innovate: https://medium.com/sciecon-innovate 
  
 
 8. Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer 	 Research Scholar (SRS), Duke Kunshan University, Summer 2021,  
@@ -39,21 +39,21 @@
 
 - Undergraduate Students: Saad Lahrichi, Jiayi Li, Xinyu Tian, and Carlos Gustavo Salas Flores majoring in Data Science; Tianyu Wu (Student Project Lead) majoring in Mathematics and Computational Science, Duke Kunshan University. **Articles:**   
 
-  >- Tech Solutions for the Crypto Market: https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294 
+  - Tech Solutions for the Crypto Market: https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294 
 
-  >- Indicators in the Crypto Market: the valuation of social sentiments: https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf 
+  - Indicators in the Crypto Market: the valuation of social sentiments: https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf 
 
-  >- Algorithmic Trading in Crypto Market: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2 
+  - Algorithmic Trading in Crypto Market: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2 
 
-  >- Cryptocurrency Exchanges: A Guide to Smart Transactions: https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7 
+  - Cryptocurrency Exchanges: A Guide to Smart Transactions: https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7 
 
  
 
 9. “Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer”, Duke CS + (https://www.cs.duke.edu/undergrad/summer_research_2021), Duke University, Summer 2021 (Luyao Zhang and Fan Zhang are among the faculty leaders) 
 
-   >- Undergraduate students: Dylan Paul, Majoring in Computer Science; Malika Rawal majoring in Economics with a concentration in Finance and minoring in Computer Science, Oum Lahade majoring in Electrical & Computer Engineering and minoring in Mathematics; Rhys Banerjee majoring in Computer Science with a concentration in AI and Machine Learning and minoring in Math, Duke University 
+   - Undergraduate students: Dylan Paul, Majoring in Computer Science; Malika Rawal majoring in Economics with a concentration in Finance and minoring in Computer Science, Oum Lahade majoring in Electrical & Computer Engineering and minoring in Mathematics; Rhys Banerjee majoring in Computer Science with a concentration in AI and Machine Learning and minoring in Math, Duke University 
 
-   >- Medium articles: https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75 
+   - Medium articles: https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75 
 
  
 
@@ -67,8 +67,8 @@
     
 13. Tianyu Wu, Executive Editor of the following two publications on Medium for exploratory research in SciEcon Ask Me Anything (AMA) events. **Medium Publication:** 
 
-    > -A conversation on cryptography trust machine and cyber planet construction: https://medium.com/sciecon-ama/a-conversion-on-cryptography-trust-machine-and-cyber-planet-construction-579f2e0d8bfd;  
+    -A conversation on cryptography trust machine and cyber planet construction: https://medium.com/sciecon-ama/a-conversion-on-cryptography-trust-machine-and-cyber-planet-construction-579f2e0d8bfd;  
 
-    > -How to realize options trading in decentralized finance: https://medium.com/sciecon-ama/how-to-realize-options-trading-in-decentralized-finance-e942a0bc08ea. 
+    -How to realize options trading in decentralized finance: https://medium.com/sciecon-ama/how-to-realize-options-trading-in-decentralized-finance-e942a0bc08ea. 
 
  
