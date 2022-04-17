@@ -25,11 +25,11 @@
  
 7. Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain: 
 
-   > 1. SciEcon AMA: https://medium.com/sciecon-ama 
+   >- SciEcon AMA: https://medium.com/sciecon-ama 
 
-   > 2. SciEcon Research: https://medium.com/sciecon-research 
+   >- SciEcon Research: https://medium.com/sciecon-research 
 
-   > 3. SciEcon Innovate: https://medium.com/sciecon-innovate 
+   >- SciEcon Innovate: https://medium.com/sciecon-innovate 
  
 
 8. Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer 	 Research Scholar (SRS), Duke Kunshan University, Summer 2021,  
@@ -37,13 +37,13 @@
 
 - Undergraduate Students: Saad Lahrichi, Jiayi Li, Xinyu Tian, and Carlos Gustavo Salas Flores majoring in Data Science; Tianyu Wu (Student Project Lead) majoring in Mathematics and Computational Science, Duke Kunshan University. **Articles:**   
 
-  > 1. Tech Solutions for the Crypto Market: https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294 
+  >- Tech Solutions for the Crypto Market: https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294 
 
-  > 2. Indicators in the Crypto Market: the valuation of social sentiments: https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf 
+  >- Indicators in the Crypto Market: the valuation of social sentiments: https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf 
 
-  > 3. Algorithmic Trading in Crypto Market: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2 
+  >- Algorithmic Trading in Crypto Market: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2 
 
-  > 4. Cryptocurrency Exchanges: A Guide to Smart Transactions: https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7 
+  >- Cryptocurrency Exchanges: A Guide to Smart Transactions: https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7 
 
  
 
@@ -61,12 +61,7 @@
 
 11. Tian, Xinyu, and Tianyu Wu. 2021. “Algorithmic Trading in Crypto Market”. Medium: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2. 
 
-12.  Wu, Tianyu, and Ray Zhu. 2021. “How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization?”  **Medium Publication:**
-     >- [Part I](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-d89ca0251096)
-     
-     >- [Part II](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-8858220d863a)
-
-     >- [Part III](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-7223c3364e9a)
+12.  Wu, Tianyu, and Ray Zhu. 2021. “How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization?”  **Medium Publication:**[Part I](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-d89ca0251096), [Part II](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-8858220d863a), and [Part III](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-7223c3364e9a).
     
 13. Tianyu Wu, Executive Editor of the following two publications on Medium for exploratory research in SciEcon Ask Me Anything (AMA) events. **Medium Publication:** 
 
