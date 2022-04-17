@@ -51,9 +51,9 @@
 
 9. “Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer”, [Duke CS +](https://www.cs.duke.edu/undergrad/summer_research_2021), Duke University, Summer 2021 (Luyao Zhang and Fan Zhang are among the faculty leaders) 
 
-   - Undergraduate students: Dylan Paul, Majoring in Computer Science; Malika Rawal majoring in Economics with a concentration in Finance and minoring in Computer Science, Oum Lahade majoring in Electrical & Computer Engineering and minoring in Mathematics; Rhys Banerjee majoring in Computer Science with a concentration in AI and Machine Learning and minoring in Math, Duke University 
+   - **Undergraduate students**: Dylan Paul, Majoring in Computer Science; Malika Rawal majoring in Economics with a concentration in Finance and minoring in Computer Science, Oum Lahade majoring in Electrical & Computer Engineering and minoring in Mathematics; Rhys Banerjee majoring in Computer Science with a concentration in AI and Machine Learning and minoring in Math, Duke University 
 
-   - Medium articles: https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75 
+   - **Medium articles**: https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75 
 
  
 
