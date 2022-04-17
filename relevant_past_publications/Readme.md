@@ -1,9 +1,9 @@
 # Relevant Past Publications
 
 1. Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang*, Luyao Zhang*, and Yinhong Zhao. 2022. “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security.” ArXiv:2201.05574 [Cs Econ, Q-Fin], January. Arxiv: https://arxiv.org/abs/2201.05574. The 29th ACM Conference on Computer and Communications Security (CCS) 2022. Forthcoming 
-   - Code: https://github.com/SciEcon/EIP1559
+   - **Code**: https://github.com/SciEcon/EIP1559
    
-   - Data: https://doi.org/10.7910/DVN/K7UYPI
+   - **Data**: https://doi.org/10.7910/DVN/K7UYPI
 
 
 2. Liu, Yulin, Luyao Zhang*, and Yinhong Zhao. 2022. “Deciphering Bitcoin Blockchain Data by Cohort Analysis.” Scientific Data 9 (136).  https://doi.org/10.1038/s41597-022-01254-0. 
