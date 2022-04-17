@@ -26,11 +26,11 @@
 
 - Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain: 
 
--- SciEcon AMA: https://medium.com/sciecon-ama 
+> -SciEcon AMA: https://medium.com/sciecon-ama 
 
--- SciEcon Research: https://medium.com/sciecon-research 
+> -SciEcon Research: https://medium.com/sciecon-research 
 
--- SciEcon Innovate: https://medium.com/sciecon-innovate 
+> -SciEcon Innovate: https://medium.com/sciecon-innovate 
 
  
 
@@ -38,7 +38,7 @@
 
 >Undergraduate Students: Saad Lahrichi, Jiayi Li, Xinyu Tian, and Carlos Gustavo Salas Flores majoring in Data Science; Tianyu Wu (Student Project Lead) majoring in >Mathematics and Computational Science, Duke Kunshan University 
 
->Articles:   
+> **Articles:**   
 
 >- Tech Solutions for the Crypto Market: https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294 
 
@@ -77,7 +77,7 @@
 
 - Tianyu Wu, Executive Editor of the following two publications on Medium for exploratory research in SciEcon Ask Me Anything (AMA) events. 
 
-Medium Publication: 
+> **Medium Publication:** 
 
 > 1. A conversation on cryptography trust machine and cyber planet construction: https://medium.com/sciecon-ama/a-conversion-on-cryptography-trust-machine-and-cyber-planet-construction-579f2e0d8bfd;  
 
