@@ -24,15 +24,15 @@
 
  
 
-- Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain [^bignote]: 
+- Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain: 
 
-[^bignote]:
+```
 -- SciEcon AMA: https://medium.com/sciecon-ama 
 
 -- SciEcon Research: https://medium.com/sciecon-research 
 
 -- SciEcon Innovate: https://medium.com/sciecon-innovate 
-
+```
  
 
 - Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer 	 Research Scholar (SRS), Duke Kunshan University, Summer 2021,  
