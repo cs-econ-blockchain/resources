@@ -1,6 +1,6 @@
 # Relevant Past Publications
 
-1. Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang*, Luyao Zhang*, and Yinhong Zhao. 2022. “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security.” ArXiv:2201.05574 [Cs Econ, Q-Fin], January. Arxiv: https://arxiv.org/abs/2201.05574. The 29th ACM Conference on Computer and Communications Security (CCS) 2022. Forthcoming 
+1. Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang*, Luyao Zhang*, and Yinhong Zhao. 2022. “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security.” ArXiv:2201.05574 [Cs Econ, Q-Fin], January. Arxiv: https://arxiv.org/abs/2201.05574. The 29th ACM Conference on Computer and Communications Security (CCS) 2022. Forthcoming.
    - **Open Access Code**: https://github.com/SciEcon/EIP1559
    
    - **Open Access Data**: https://doi.org/10.7910/DVN/K7UYPI
@@ -12,11 +12,11 @@
 
   
 
-3. Dan Levin* and Luyao Zhang*. “Bridging Level-K to Nash Equilibrium.” Review of Economics and Statistics. Forthcoming.  https://doi.org/10.1162/rest_a_00990;  
+3. Dan Levin* and Luyao Zhang*. “Bridging Level-K to Nash Equilibrium.” Review of Economics and Statistics. Forthcoming.  https://doi.org/10.1162/rest_a_00990.  
 
  
 
-4. Zhang, Luyao* and Dan Levin*. 2017. “Bounded Rationality and Robust Mechanism Design: An Axiomatic Approach.” American Economic Review 107 (5) Papers & Proceedings: 235–39. https://10.1257/aer.p20171030 
+4. Zhang, Luyao* and Dan Levin*. 2017. “Bounded Rationality and Robust Mechanism Design: An Axiomatic Approach.” American Economic Review 107 (5) Papers & Proceedings: 235–39. https://10.1257/aer.p20171030. 
 
  
 
@@ -36,7 +36,7 @@
    - **SciEcon Innovate**: https://medium.com/sciecon-innovate 
  
 
-8. Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer Research Scholar (SRS), Duke Kunshan University, Summer 2021,  
+8. Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer Research Scholar (SRS), Duke Kunshan University, Summer 2021.  
 
 
 - Undergraduate Students: Saad Lahrichi, Jiayi Li, Xinyu Tian, and Carlos Gustavo Salas Flores majoring in Data Science; Tianyu Wu (Student Project Lead) majoring in Mathematics and Computational Science, Duke Kunshan University. **Articles:**   
