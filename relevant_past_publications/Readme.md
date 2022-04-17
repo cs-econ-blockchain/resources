@@ -27,11 +27,11 @@
 - Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain: 
 
 ```
--- SciEcon AMA: https://medium.com/sciecon-ama 
+1. SciEcon AMA: https://medium.com/sciecon-ama 
 
--- SciEcon Research: https://medium.com/sciecon-research 
+2. SciEcon Research: https://medium.com/sciecon-research 
 
--- SciEcon Innovate: https://medium.com/sciecon-innovate 
+3. SciEcon Innovate: https://medium.com/sciecon-innovate 
 ```
  
 
