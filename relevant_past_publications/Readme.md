@@ -22,19 +22,19 @@
 
  
 
-6. Innovate on the Internet Computer, Industry 4.0 Open Education Resource Publication Initiatives Series No. 1, EBOOK ISBN: 978-1-7923-8394-6, DOI: https://dx.doi.org/10.21428/bfffc129.db13dd8d; PubPub: https://ic.pubpub.org/ (Fan Zhang and Luyao Zhang are among the faculty contributors, Tianyu Wu is among the student contributors) 
+6. Innovate on the Internet Computer, Industry 4.0 Open Education Resource Publication Initiatives Series No. 1, EBOOK ISBN: 978-1-7923-8394-6, DOI: https://dx.doi.org/10.21428/bfffc129.db13dd8d; PubPub: https://ic.pubpub.org/. *Notes: Fan Zhang and Luyao Zhang are among the faculty contributors, Tianyu Wu is among the student contributors.* 
 
  
 7. Luyao Zhang, Chief Editor for the following three publications on Medium for exploratory research in SciEcon and intellectual conversation between academia and industry especially on Blockchain: 
 
-   - SciEcon AMA: https://medium.com/sciecon-ama 
+   - **SciEcon AMA**: https://medium.com/sciecon-ama 
 
-   - SciEcon Research: https://medium.com/sciecon-research 
+   - **SciEcon Research**: https://medium.com/sciecon-research 
 
-   - SciEcon Innovate: https://medium.com/sciecon-innovate 
+   - **SciEcon Innovate**: https://medium.com/sciecon-innovate 
  
 
-8. Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer 	 Research Scholar (SRS), Duke Kunshan University, Summer 2021,  
+8. Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer Research Scholar (SRS), Duke Kunshan University, Summer 2021,  
 
 
 - Undergraduate Students: Saad Lahrichi, Jiayi Li, Xinyu Tian, and Carlos Gustavo Salas Flores majoring in Data Science; Tianyu Wu (Student Project Lead) majoring in Mathematics and Computational Science, Duke Kunshan University. **Articles:**   
@@ -49,19 +49,19 @@
 
  
 
-9. “Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer”, [Duke CS +](https://www.cs.duke.edu/undergrad/summer_research_2021), Duke University, Summer 2021 (Luyao Zhang and Fan Zhang are among the faculty leaders) 
+9. “Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer”, [Duke CS +](https://www.cs.duke.edu/undergrad/summer_research_2021), Duke University, Summer 2021. *Notes Luyao Zhang and Fan Zhang are among the faculty leaders.* 
 
-   - **Undergraduate students**: Dylan Paul, Majoring in Computer Science; Malika Rawal majoring in Economics with a concentration in Finance and minoring in Computer Science, Oum Lahade majoring in Electrical & Computer Engineering and minoring in Mathematics; Rhys Banerjee majoring in Computer Science with a concentration in AI and Machine Learning and minoring in Math, Duke University 
+   - **Undergraduate students**: Dylan Paul, Majoring in Computer Science; Malika Rawal majoring in Economics with a concentration in Finance and minoring in Computer Science, Oum Lahade majoring in Electrical & Computer Engineering and minoring in Mathematics; Rhys Banerjee majoring in Computer Science with a concentration in AI and Machine Learning and minoring in Math, Duke University. 
 
    - **Medium articles**: https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75 
 
  
 
-10. Wu, Tianyu, and Jerry Zhang. 2022. “Explore the Sea of NFT - A US Legal Perspective”. Medium:  https://medium.com/sciecon-research/explore-the-sea-of-nft-f74eab9259de. 
+10. Wu, Tianyu, and Jerry Zhang. 2022. “Explore the Sea of NFT - A US Legal Perspective”. **Medium**:  https://medium.com/sciecon-research/explore-the-sea-of-nft-f74eab9259de. 
 
  
 
-11. Tian, Xinyu, and Tianyu Wu. 2021. “Algorithmic Trading in Crypto Market”. Medium: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2. 
+11. Tian, Xinyu, and Tianyu Wu. 2021. “Algorithmic Trading in Crypto Market”. **Medium**: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2. 
 
 12.  Wu, Tianyu, and Ray Zhu. 2021. “How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization?”  **Medium Publication:** [Part I](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-d89ca0251096); [Part II](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-8858220d863a); [Part III](https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-7223c3364e9a).
     
