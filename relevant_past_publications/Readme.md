@@ -61,16 +61,13 @@
 
 11. Tian, Xinyu, and Tianyu Wu. 2021. “Algorithmic Trading in Crypto Market”. Medium: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2. 
 
-12.  Wu, Tianyu, and Ray Zhu. 2021. “How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization?”  **Medium Publication:**  
-
+12.  Wu, Tianyu, and Ray Zhu. 2021. “How Blockchain Empowers Social Media: on the mechanics of token economy and decentralization?”  **Medium Publication:**
     >- https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-d89ca0251096;  
 
     >- https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-8858220d863a;  
 
     >- https://medium.com/sciecon-research/how-blockchain-empowers-social-media-on-the-mechanics-of-token-economy-and-decentralization-7223c3364e9a. 
-
- 
-
+    
 13. Tianyu Wu, Executive Editor of the following two publications on Medium for exploratory research in SciEcon Ask Me Anything (AMA) events. **Medium Publication:** 
 
     > -A conversation on cryptography trust machine and cyber planet construction: https://medium.com/sciecon-ama/a-conversion-on-cryptography-trust-machine-and-cyber-planet-construction-579f2e0d8bfd;  
