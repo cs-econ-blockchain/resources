@@ -36,18 +36,20 @@
  
 
 - Luyao Zhang, PI for “How Fintech Empowers Asset Valuation: Theory and Applications” Summer 	 Research Scholar (SRS), Duke Kunshan University, Summer 2021,  
+```
 
 > Undergraduate Students: Saad Lahrichi, Jiayi Li, Xinyu Tian, and Carlos Gustavo Salas Flores majoring in Data Science; Tianyu Wu (Student Project Lead) majoring in Mathematics and Computational Science, Duke Kunshan University 
 
 > **Articles:**   
 
->--Tech Solutions for the Crypto Market: https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294 
+1. Tech Solutions for the Crypto Market: https://medium.com/sciecon-research/tech-solutions-for-the-crypto-market-6734f2e54294 
 
->--Indicators in the Crypto Market: the valuation of social sentiments: https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf 
+2. Indicators in the Crypto Market: the valuation of social sentiments: https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf 
 
->-- Algorithmic Trading in Crypto Market: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2 
+3. Algorithmic Trading in Crypto Market: https://medium.com/sciecon-research/algorithmic-trading-in-crypto-market-6e452aaa8ca2 
 
->-- Cryptocurrency Exchanges: A Guide to Smart Transactions: https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7 
+4. Cryptocurrency Exchanges: A Guide to Smart Transactions: https://medium.com/sciecon-research/cryptocurrency-exchanges-a-guide-to-smart-transactions-e5beaccd19e7 
+```
  
 
 - “Decentralized Finance: Cryptocurrency and Blockchain on the Internet Computer”, Duke CS + (https://www.cs.duke.edu/undergrad/summer_research_2021), Duke University, Summer 2021 (Luyao Zhang and Fan Zhang are among the faculty leaders) 
