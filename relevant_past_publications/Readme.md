@@ -6,7 +6,9 @@
    - **Data**: https://doi.org/10.7910/DVN/K7UYPI
 
 
-2. Liu, Yulin, Luyao Zhang*, and Yinhong Zhao. 2022. “Deciphering Bitcoin Blockchain Data by Cohort Analysis.” Scientific Data 9 (136).  https://doi.org/10.1038/s41597-022-01254-0. 
+2. Liu, Yulin, Luyao Zhang*, and Yinhong Zhao. 2022. [“Deciphering Bitcoin Blockchain Data by Cohort Analysis.”](https://rdcu.be/cKRkg) [Scientific Data 9 (136)]( https://nature.com/articles/s41597-022-01254-0).  https://doi.org/10.1038/s41597-022-01254-0. 
+    - **Open Access Data**: https://doi.org/10.7910/DVN/XSZQWP 
+    - **Open Access Code**: https://github.com/SciEcon/UTXO
 
   
 
